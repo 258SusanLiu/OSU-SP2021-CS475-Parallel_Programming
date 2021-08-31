@@ -1,0 +1,59 @@
+ 1 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   1.46
+ 1 threads:       10 trials; probability = 0.00000000%; megatrials/sec =   6.96
+ 1 threads:      100 trials; probability = 3.99999991%; megatrials/sec =   8.77
+ 1 threads:      500 trials; probability = 3.59999985%; megatrials/sec =   9.09
+ 1 threads:     1000 trials; probability = 5.49999997%; megatrials/sec =   9.12
+ 1 threads:     5000 trials; probability = 5.99999987%; megatrials/sec =   9.03
+ 1 threads:    10000 trials; probability = 6.23000003%; megatrials/sec =   8.92
+ 1 threads:    50000 trials; probability = 6.58600032%; megatrials/sec =   8.98
+ 1 threads:   100000 trials; probability = 6.75500035%; megatrials/sec =   8.62
+ 
+ 2 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   0.55
+ 2 threads:       10 trials; probability = 0.00000000%; megatrials/sec =   5.42
+ 2 threads:      100 trials; probability = 5.99999987%; megatrials/sec =  16.84
+ 2 threads:      500 trials; probability = 6.40000030%; megatrials/sec =  17.32
+ 2 threads:     1000 trials; probability = 7.99999982%; megatrials/sec =  17.35
+ 2 threads:     5000 trials; probability = 6.36000037%; megatrials/sec =  16.95
+ 2 threads:    10000 trials; probability = 6.67999983%; megatrials/sec =  16.42
+ 2 threads:    50000 trials; probability = 6.75399974%; megatrials/sec =  16.87
+ 2 threads:   100000 trials; probability = 6.70899972%; megatrials/sec =  17.79
+ 
+ 4 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   0.44
+ 4 threads:       10 trials; probability = 0.00000000%; megatrials/sec =   3.82
+ 4 threads:      100 trials; probability = 10.99999994%; megatrials/sec =  17.08
+ 4 threads:      500 trials; probability = 7.59999976%; megatrials/sec =  24.84
+ 4 threads:     1000 trials; probability = 7.00000003%; megatrials/sec =  28.26
+ 4 threads:     5000 trials; probability = 6.62000030%; megatrials/sec =  27.66
+ 4 threads:    10000 trials; probability = 6.39000013%; megatrials/sec =  27.04
+ 4 threads:    50000 trials; probability = 6.60199970%; megatrials/sec =  28.63
+ 4 threads:   100000 trials; probability = 6.57600015%; megatrials/sec =  30.32
+ 
+ 6 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   0.36
+ 6 threads:       10 trials; probability = 10.00000015%; megatrials/sec =   3.07
+ 6 threads:      100 trials; probability = 5.99999987%; megatrials/sec =  16.97
+ 6 threads:      500 trials; probability = 6.40000030%; megatrials/sec =  32.58
+ 6 threads:     1000 trials; probability = 7.50000030%; megatrials/sec =  37.36
+ 6 threads:     5000 trials; probability = 7.19999969%; megatrials/sec =  40.17
+ 6 threads:    10000 trials; probability = 6.88999966%; megatrials/sec =  40.93
+ 6 threads:    50000 trials; probability = 6.66399971%; megatrials/sec =  40.73
+ 6 threads:   100000 trials; probability = 6.58200011%; megatrials/sec =  39.60
+ 
+ 8 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   0.33
+ 8 threads:       10 trials; probability = 0.00000000%; megatrials/sec =   2.86
+ 8 threads:      100 trials; probability = 2.99999993%; megatrials/sec =  17.81
+ 8 threads:      500 trials; probability = 5.40000014%; megatrials/sec =  40.48
+ 8 threads:     1000 trials; probability = 7.00000003%; megatrials/sec =  44.80
+ 8 threads:     5000 trials; probability = 6.75999969%; megatrials/sec =  51.90
+ 8 threads:    10000 trials; probability = 6.45999983%; megatrials/sec =  53.22
+ 8 threads:    50000 trials; probability = 6.63399994%; megatrials/sec =  53.49
+ 8 threads:   100000 trials; probability = 6.61799982%; megatrials/sec =  54.38
+ 
+10 threads:        1 trials; probability = 0.00000000%; megatrials/sec =   0.28
+10 threads:       10 trials; probability = 0.00000000%; megatrials/sec =   3.16
+10 threads:      100 trials; probability = 5.99999987%; megatrials/sec =  17.56
+10 threads:      500 trials; probability = 7.40000010%; megatrials/sec =  46.78
+10 threads:     1000 trials; probability = 6.30000010%; megatrials/sec =  52.50
+10 threads:     5000 trials; probability = 6.67999983%; megatrials/sec =  63.27
+10 threads:    10000 trials; probability = 6.71000034%; megatrials/sec =  65.29
+10 threads:    50000 trials; probability = 6.64800033%; megatrials/sec =  65.41
+10 threads:   100000 trials; probability = 6.48199990%; megatrials/sec =  64.46

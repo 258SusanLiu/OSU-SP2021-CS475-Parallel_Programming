@@ -1,0 +1,26 @@
+Thread 1,Nodes 10,Perfomance 0.741614,Volume 0.382288
+Thread 1,Nodes 20,Perfomance 1.338486,Volume 0.419051
+Thread 1,Nodes 40,Perfomance 1.670103,Volume 0.430803
+Thread 1,Nodes 80,Perfomance 1.797559,Volume 0.434243
+Thread 1,Nodes 160,Perfomance 1.940647,Volume 0.435308
+Thread 1,Nodes 320,Perfomance 2.218474,Volume 0.435636
+Thread 1,Nodes 640,Perfomance 2.957622,Volume 0.435737
+Thread 1,Nodes 1000,Perfomance 3.934010,Volume 0.435761
+
+Thread 2,Nodes 10,Perfomance 0.618004,Volume 0.382288
+Thread 2,Nodes 20,Perfomance 1.620871,Volume 0.419051
+Thread 2,Nodes 40,Perfomance 2.783707,Volume 0.430803
+Thread 2,Nodes 80,Perfomance 3.414974,Volume 0.434243
+Thread 2,Nodes 160,Perfomance 3.618217,Volume 0.435308
+Thread 2,Nodes 320,Perfomance 4.025235,Volume 0.435636
+Thread 2,Nodes 640,Perfomance 4.957226,Volume 0.435737
+Thread 2,Nodes 1000,Perfomance 6.442865,Volume 0.435761
+
+Thread 4,Nodes 10,Perfomance 0.351614,Volume 0.382288
+Thread 4,Nodes 20,Perfomance 1.044218,Volume 0.419051
+Thread 4,Nodes 40,Perfomance 3.449160,Volume 0.430803
+Thread 4,Nodes 80,Perfomance 5.538952,Volume 0.434243
+Thread 4,Nodes 160,Perfomance 6.283158,Volume 0.435308
+Thread 4,Nodes 320,Perfomance 6.792444,Volume 0.435636
+Thread 4,Nodes 640,Perfomance 7.945641,Volume 0.435737
+Thread 4,Nodes 1000,Perfomance 9.594398,Volume 0.435761
