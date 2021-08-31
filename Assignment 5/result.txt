@@ -1,0 +1,90 @@
+BLOCKSIZE: 16,     1024 trials; probability = 0.39062%; megatrials/sec = 0.03448276
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 16,     5120 trials; probability = 0.13672%; megatrials/sec = 0.17241379
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 16,    10240 trials; probability = 0.02930%; megatrials/sec = 0.33333334
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 16,   102400 trials; probability = 0.00391%; megatrials/sec = 3.27533269
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 16,  1024000 trials; probability = 0.00049%; megatrials/sec = 30.04694948
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 16,  2048000 trials; probability = 0.00005%; megatrials/sec = 58.02357119
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,     1024 trials; probability = 1.07422%; megatrials/sec = 0.03448276
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,     5120 trials; probability = 0.27344%; megatrials/sec = 0.17241379
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,    10240 trials; probability = 0.03906%; megatrials/sec = 0.33333334
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,   102400 trials; probability = 0.00586%; megatrials/sec = 3.21608037
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,  1024000 trials; probability = 0.00078%; megatrials/sec = 29.60222110
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 32,  2048000 trials; probability = 0.00054%; megatrials/sec = 55.65217268
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,     1024 trials; probability = 1.75781%; megatrials/sec = 0.03448276
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,     5120 trials; probability = 0.41016%; megatrials/sec = 0.16666667
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,    10240 trials; probability = 0.18555%; megatrials/sec = 0.33333334
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,   102400 trials; probability = 0.01758%; megatrials/sec = 3.32640336
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,  1024000 trials; probability = 0.00127%; megatrials/sec = 30.33175354
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 64,  2048000 trials; probability = 0.00073%; megatrials/sec = 57.97101321
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,     1024 trials; probability = 4.78516%; megatrials/sec = 0.03571429
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,     5120 trials; probability = 0.89844%; megatrials/sec = 0.17241379
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,    10240 trials; probability = 0.35156%; megatrials/sec = 0.32258065
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,   102400 trials; probability = 0.03906%; megatrials/sec = 3.28879748
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,  1024000 trials; probability = 0.00342%; megatrials/sec = 31.03782583
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 128,  2048000 trials; probability = 0.00186%; megatrials/sec = 58.98617532
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,     1024 trials; probability = 6.15234%; megatrials/sec = 0.03333333
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,     5120 trials; probability = 1.21094%; megatrials/sec = 0.16666667
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,    10240 trials; probability = 0.72266%; megatrials/sec = 0.33333334
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,   102400 trials; probability = 0.07520%; megatrials/sec = 3.19361295
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,  1024000 trials; probability = 0.00771%; megatrials/sec = 25.66158886
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
+BLOCKSIZE: 256,  2048000 trials; probability = 0.00366%; megatrials/sec = 57.04099592
+GPU Device 0: "Tesla V100-DGXS-32GB" with compute capability 7.0
+
